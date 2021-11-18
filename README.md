@@ -24,7 +24,7 @@ packer hcl2_upgrade variables.json
 
 Produces the file variables.pkr.hcl:
 
-```hcl
+```hcl2
 variable "aws_access_key" {
   type      = string
   default   = ""
