@@ -4,7 +4,7 @@ Upgrading legacy JSON
 
 Given the old JSON variables file:
 
-```json
+```hcl
 {
   "variables": {
     "aws_region": null,
