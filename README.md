@@ -1,5 +1,23 @@
 # Packer
 
+## AWS
+
+Building AMIs
+
+## Docker
+
+Building docker images
+
+## VMWare
+
+Building VMWare templates
+
+## VirtualBox
+
+Building OVAs
+
+## Notes
+
 Upgrading legacy JSON
 
 Given the old JSON variables file:
